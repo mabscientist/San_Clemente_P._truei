@@ -1,0 +1,852 @@
+﻿catalogNo,Island,genetic_ID,Sex,Prep,total_length,tail_length,hindfoot,ear_from_notch,immature,pregnant,MamCollector,MamPreparator,LocPreciseLocation,,MamDateCollDate,Month,Day,Year
+327,SCZ,NA,F,SS,160,87,22,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/27/1917,11,27,1917
+328,SCZ,NA,F,SS,163,84,22,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/28/1917,11,28,1917
+329,SCZ,NA,M,SS,145,86,22,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/29/1917,11,29,1917
+330,SCZ,NA,M,SS,163,78.5,21,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/28/1917,11,28,1917
+331,SCZ,NA,F,SS,143,82,21,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,12/1/1917,12,1,1917
+332,SCZ,NA,F,SS,172,85,23,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/30/1917,11,30,1917
+333,SCZ,NA,M,SS,144,74,20,,TRUE,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/30/1917,11,30,1917
+458,SCZ,NA,M,SS,161,78,22,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,11/28/1918,11,28,1918
+472,SBI,NA,F,SS,170,83,20,,,,"Wyman, L E","Hornung, J",Santa Barbara Id,,7/31/1919,7,31,1919
+473,SBI,NA,M,SS,179,82,23,,,,"Wyman, L E","Hornung, J",Santa Barbara Id,,7/31/1919,7,31,1919
+474,SBI,NA,F,SS,173,80,22.5,,,,"Wyman, L E","Hornung, J",Santa Barbara Id,,7/31/1919,7,31,1919
+475,SBI,NA,M,SS,152,67,20,,,,"Wyman, L E","Hornung, J",Santa Barbara Id,,7/31/1919,7,31,1919
+728,SNI,NA,M,SS,174,79,20,,,,"Grinnell, J","Grinnell, J",San Nicolas Id,,05/23/1897,5,23,1897
+730,SNI,NA,M,SS,175,83,21,,,,"Grinnell, J","Grinnell, J",San Nicolas Id,,05/22/1897,5,22,1897
+731,SNI,NA,F,SS,175,80,21,,,,"Grinnell, J","Grinnell, J",San Nicolas Island,,05/23/1897,5,23,1897
+732,SCL,NA,M,SS,77,38,13,16,,,"Grinnell, J","Grinnell, J",San Clemente Id,,06/01/1897,6,1,1897
+733,SCL,NA,F,SS,156,71,,,,,"Grinnell, J","Grinnell, J",San Clemente Id,,05/29/1897,5,29,1897
+734,SBI,NA,F,SS,173,77,22,,,,"Grinnell, J","Grinnell, J",Santa Barbara Id,,05/17/1897,5,17,1897
+735,SBI,NA,M,SS,161,68,21,,,,"Gaylord, H A","Gaylord, H A",Santa Barbara Id,,05/17/1897,5,17,1897
+807,SCZ,NA,M,SS,173,82,22,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,4/22/1914,4,22,1914
+808,SCZ,NA,,SS,145,73,20,,TRUE,,"Hornung, J","Hornung, J",Santa Cruz Id,,4/19/1914,4,19,1914
+814,SCL,NA,F,SS,161,67,20,15,,,"Howell, A B","Howell, A B",San Clemente Id,,4/3/1915,4,3,1915
+818,SCZ,NA,F,SS,176,88,22.5,,,,"Hornung, J","Hornung, J",Santa Cruz Id,,4/25/1914,4,25,1914
+1954,SMI,NA,F,SS,170,80,20,,,,"Willett, G","Willett, G",San Miguel Id,,9/20/1930,9,20,1930
+1955,SMI,NA,,SS,160,70,20,,,,"Willett, G","Willett, G",San Miguel Id,,9/20/1930,9,20,1930
+5803,SCL,NA,F,SS,165,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5804,SCL,NA,F,SS,167,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5805,SCL,NA,F,SS,166,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5806,SCL,NA,F,SS,168,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5807,SCL,NA,F,SS,170,70,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5808,SCL,NA,F,SS,169,68,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5809,SCL,manic,M,SS,169,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5810,SCL,NA,M,SS,167,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5811,SCL,NA,M,SS,168,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5812,SCL,NA,M,SS,167,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5813,SCL,NA,M,SS,165,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5814,SCL,NA,M,SS,166,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/3/1939,4,3,1939
+5815,SCL,NA,M,SS,167,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/2/1939,4,2,1939
+5816,SCL,NA,F,SS,169,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/3/1939,4,3,1939
+5817,SCL,NA,M,SS,164,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/4/1939,4,4,1939
+5818,SCL,NA,M,SS,168,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/4/1939,4,4,1939
+5819,SCL,NA,M,SS,170,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/4/1939,4,4,1939
+5820,SCL,NA,F,SS,167,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/4/1939,4,4,1939
+5821,SCL,NA,F,SS,169,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/4/1939,4,4,1939
+5822,SCL,NA,M,SS,165,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/3/1939,4,3,1939
+5823,SCL,NA,M,SS,194,95,23,21,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/2/1939,4,2,1939
+5824,SCL,NA,M,SS,197,96,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/2/1939,4,2,1939
+5825,SCL,NA,F,SS,196,95,23,21,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/2/1939,4,2,1939
+5826,SCL,NA,F,SS,198,97,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/2/1939,4,2,1939
+5827,SCL,NA,M,SS,188,86,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/5/1939,4,5,1939
+5828,SCL,NA,M,SS,184,87,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/5/1939,4,5,1939
+5829,SCL,NA,F,SS,185,87,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/5/1939,4,5,1939
+5830,SCL,NA,M,SS,180,85,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/7/1939,4,7,1939
+5831,SCL,NA,M,SS,201,97,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/2/1939,4,2,1939
+5832,SCL,NA,M,SS,205,100,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/2/1939,4,2,1939
+5833,SCL,truei,F,SS,201,99,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/3/1939,4,3,1939
+5834,SCL,truei,M,SS,207,105,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Chinetti Canyon,,4/3/1939,4,3,1939
+5835,SCL,NA,M,SS,208,103,23,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Pyramid Cove,,4/8/1939,4,8,1939
+5840,SBI,NA,F,SS,173,74,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5841,SBI,NA,F,SS,173,74,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5842,SBI,NA,F,SS,182,82,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5843,SBI,NA,F,SS,170,72,20,19,,TRUE,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5844,SBI,NA,F,SS,164,70,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5845,SBI,NA,M,SS,163,74,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5846,SBI,NA,M,SS,157,75,20,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5847,SBI,NA,M,SS,157,70,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5848,SBI,NA,M,SS,149,70,20,17,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5849,SBI,NA,M,SS,146,65,20,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/28/1939,5,28,1939
+5850,SBI,NA,F,SS,183,80,22,20,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5851,SBI,NA,F,SS,171,74,21,18,,TRUE,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5852,SBI,NA,F,SO,172,76,21,18,,TRUE,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5853,SBI,NA,F,SS,181,80,22,20,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5854,SBI,NA,M,SS,185,80,22,21,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5855,SBI,NA,M,SK,183,80,21,20,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5856,SBI,NA,M,SS,170,78,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5857,SBI,NA,M,SS,163,72,21,17,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5858,SBI,NA,M,SS,155,72,20,17,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/29/1939,5,29,1939
+5859,SBI,NA,M,SS,165,72,20,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5860,SBI,manic,M,SS,168,71,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5861,SBI,manic,M,SS,163,72,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5862,SBI,manic,M,SS,170,78,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5863,SBI,manic,M,SS,182,80,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5864,SBI,manic,M,SS,183,79,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5865,SBI,manic,F,SS,174,75,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5866,SBI,manic,F,SS,185,82,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5867,SBI,manic,F,SS,179,73,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5868,SBI,manic,F,SS,174,74,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5869,SBI,manic,F,SS,169,70,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+5870,SBI,NA,F,SS,185,76,21,20,,,"von Bloeker, J C","von Bloeker, J C",Santa Barbara Id,,5/30/1939,5,30,1939
+6209,SNI,NA,F,SS,185,90,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/23/1939,7,23,1939
+6210,SNI,NA,F,SS,173,85,21,19,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/23/1939,7,23,1939
+6211,SNI,NA,M,SS,176,86,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/23/1939,7,23,1939
+6212,SNI,NA,M,SS,178,83,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/23/1939,7,23,1939
+6213,SNI,NA,M,SS,111,47,17,11,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/23/1939,7,23,1939
+6214,SNI,NA,M,SS,162,75,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/23/1939,7,23,1939
+6215,SNI,NA,M,SS,162,76,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6216,SNI,NA,M,SS,173,78,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6217,SNI,NA,M,SS,170,75,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6218,SNI,NA,F,SS,175,83,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6219,SNI,NA,F,SS,190,92,22,20,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6220,SNI,NA,M,SS,174,87,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6221,SNI,NA,F,SS,147,77,21,17,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/24/1939,7,24,1939
+6222,SNI,NA,F,SS,178,77,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6223,SNI,NA,F,SS,190,92,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6224,SNI,NA,F,SS,165,73,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6225,SNI,NA,M,SS,175,78,20,19,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6226,SNI,NA,M,SS,170,75,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6227,SNI,NA,M,SS,173,77,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6228,SNI,NA,M,SS,166,72,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6229,SNI,NA,M,SS,172,76,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6230,SNI,NA,M,SS,178,80,20,19,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/25/1939,7,25,1939
+6231,SNI,NA,M,SS,167,73,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/26/1939,7,26,1939
+6232,SNI,NA,M,SS,177,82,20,19,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/26/1939,7,26,1939
+6233,SNI,NA,M,SS,181,83,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/26/1939,7,26,1939
+6234,SNI,NA,M,SS,168,72,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/26/1939,7,26,1939
+6235,SNI,NA,F,SS,165,74,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/26/1939,7,26,1939
+6236,SNI,NA,M,SS,170,78,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,7/26/1939,7,26,1939
+6237,SMI,NA,F,SS,178,80,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6238,SMI,NA,F,SS,173,77,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6239,SMI,NA,F,SS,169,73,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6240,SMI,NA,F,SS,175,79,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6241,SMI,NA,M,SS,180,82,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6242,SMI,NA,M,SS,177,80,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6243,SMI,NA,M,SS,174,78,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6244,SMI,NA,M,SS,179,83,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6245,SMI,NA,M,SS,180,82,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6246,SMI,NA,M,SS,168,75,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6247,SMI,NA,M,SS,169,76,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6248,SMI,NA,M,SS,165,73,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6249,SMI,NA,M,SS,170,75,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6250,SMI,NA,M,SS,172,76,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6251,SMI,NA,F,SS,158,78,20,15,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6252,SMI,NA,F,SS,159,76,20,15,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6253,SMI,NA,F,SS,155,72,20,15,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6254,SMI,NA,M,SS,171,79,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6255,SMI,NA,M,SS,170,78,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6256,SMI,NA,F,SS,167,72,20,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6257,SMI,NA,M,SS,169,75,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6258,SMI,manic,F,SS,168,73,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6259,SMI,manic,F,SS,169,74,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6260,SMI,manic,M,SS,170,77,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6261,SMI,NA,M,SS,168,74,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6262,SMI,NA,M,SS,156,68,20,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6263,SMI,manic,M,SS,157,70,20,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Rancho Rambouillet,,7/31/1939,7,31,1939
+6264,SMI,manic,F,SS,150,66,20,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Rancho Rambouillet,,7/31/1939,7,31,1939
+6265,SMI,manic,M,SS,169,77,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/1/1939,8,1,1939
+6266,SMI,manic,M,SS,160,72,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Hoffman Point,,8/2/1939,8,2,1939
+6267,SMI,manic,F,SS,170,78,20,18,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Hoffman Point,,8/2/1939,8,2,1939
+6268,SMI,NA,M,SS,166,78,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/2/1939,8,2,1939
+6269,SMI,manic,M,SS,167,80,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/2/1939,8,2,1939
+6270,SMI,manic,F,SS,170,80,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/2/1939,8,2,1939
+6271,SMI,NA,M,SS,164,78,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/2/1939,8,2,1939
+6272,SRI,NA,F,SS,160,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6273,SRI,NA,F,SS,154,63,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6274,SRI,NA,F,SS,164,67,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6275,SRI,NA,F,SS,167,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6276,SRI,NA,F,SS,169,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6277,SRI,NA,F,SS,167,73,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6278,SRI,NA,F,SS,162,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6279,SRI,NA,F,SS,165,70,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6280,SRI,NA,F,SS,163,71,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6281,SRI,NA,F,SS,161,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6282,SRI,NA,M,SS,160,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6283,SRI,NA,M,SS,161,70,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6284,SRI,NA,M,SS,159,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6285,SRI,NA,M,SS,157,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6286,SRI,NA,M,SS,160,70,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6287,SRI,NA,M,SS,158,69,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6288,SRI,NA,M,SS,153,64,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6289,SRI,NA,M,SS,156,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6290,SRI,NA,M,SS,160,70,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6291,SRI,NA,M,SS,156,69,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6292,SRI,NA,M,SS,154,65,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6293,SRI,NA,M,SS,160,67,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6294,SRI,NA,M,SS,155,63,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6295,SRI,NA,M,SS,157,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6296,SRI,NA,M,SS,157,66,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/5/1939,8,5,1939
+6297,SRI,NA,M,SS,164,69,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6298,SRI,NA,M,SS,159,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6299,SRI,NA,M,SS,160,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6301,SRI,NA,M,SS,164,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6302,SRI,NA,M,SS,157,65,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6303,SRI,NA,F,SS,155,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6304,SRI,NA,F,SS,156,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/6/1939,8,6,1939
+6305,SRI,NA,F,SS,154,68,19,14,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/6/1939,8,6,1939
+6306,SRI,NA,M,SS,162,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/6/1939,8,6,1939
+6307,SRI,NA,M,SS,161,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/6/1939,8,6,1939
+6308,SRI,NA,M,SS,160,69,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,8/6/1939,8,6,1939
+6309,SRI,NA,M,SS,158,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6310,SRI,NA,M,SS,167,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6311,SRI,NA,M,SS,166,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6312,SRI,NA,M,SS,168,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6313,SRI,NA,M,SS,165,70,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6314,SRI,NA,M,SS,170,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6315,SRI,NA,F,SS,160,69,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6316,SRI,NA,F,SS,168,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6317,SRI,NA,F,SS,164,69,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6318,SRI,NA,M,SS,168,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6319,SRI,NA,M,SS,165,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6320,SRI,NA,M,SS,167,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6321,SRI,NA,M,SS,162,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6322,SRI,NA,M,SS,164,69,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6323,SRI,NA,M,SS,159,65,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6324,SRI,NA,M,SS,168,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6325,SRI,NA,M,SS,167,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6326,SRI,NA,F,SS,161,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6329,SCZ,NA,M,SS,203,98,22,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6330,SCZ,NA,M,SS,183,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6331,SCZ,NA,M,SS,185,87,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6332,SCZ,NA,M,SS,191,89,22,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6333,SCZ,NA,M,SS,182,85,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6334,SCZ,manic,M,SS,181,86,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6335,SCZ,manic,M,SS,199,98,22,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6336,SCZ,manic,F,SS,175,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Prisoner's Harbor,,8/13/1939,8,13,1939
+6337,SCZ,NA,M,SS,177,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/15/1939,8,15,1939
+6338,SCZ,NA,M,SS,176,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/15/1939,8,15,1939
+6339,SCZ,NA,M,SS,172,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/15/1939,8,15,1939
+6340,SCZ,manic,F,SS,170,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/15/1939,8,15,1939
+6341,SCZ,manic,M,SS,200,95,22,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/16/1939,8,16,1939
+6342,SCZ,manic,F,SS,198,93,22,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/16/1939,8,16,1939
+6343,SCZ,NA,M,SS,179,87,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/16/1939,8,16,1939
+6344,SCZ,manic,F,SS,175,79,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/16/1939,8,16,1939
+6345,SCZ,NA,M,SS,152,71,20,14,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/16/1939,8,16,1939
+6346,SMI,NA,F,SS,202,93,22,21,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/30/1939,7,30,1939
+6347,SMI,NA,F,SS,190,89,22,20,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6348,SMI,NA,F,SS,195,91,22,20,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6349,SMI,NA,F,SS,189,87,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6350,SMI,NA,F,SS,172,77,21,19,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6351,SMI,NA,M,SS,150,73,20,18,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6352,SMI,NA,F,SS,146,70,20,17,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Cuyler's Harbor,,7/31/1939,7,31,1939
+6353,SMI,NA,M,SS,189,85,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/1/1939,8,1,1939
+6354,SMI,NA,F,SS,185,82,21,20,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Nidever Canyon,,8/1/1939,8,1,1939
+6355,SMI,NA,M,SS,180,84,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Hoffman Point,,8/2/1939,8,2,1939
+6356,SMI,NA,F,SS,185,90,21,20,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Miguel Id; Hoffman Point,,8/2/1939,8,2,1939
+6357,SRI,NA,F,SS,184,84,22,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6358,SRI,NA,F,SS,198,96,22,20,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6359,SRI,NA,F,SS,192,90,22,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6360,SRI,NA,M,SS,193,90,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6361,SRI,NA,M,SS,188,86,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6362,SRI,NA,M,SS,193,90,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6363,SRI,NA,M,SS,199,96,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6364,SRI,NA,M,SS,188,86,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6365,SRI,NA,M,SS,182,84,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6366,SRI,NA,F,SS,187,86,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6367,SRI,NA,F,SS,193,95,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6368,SRI,NA,F,SS,189,86,22,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6369,SRI,NA,M,SS,188,89,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6370,SRI,NA,M,SS,190,92,21,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6371,SRI,NA,M,SS,183,87,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/7/1939,8,7,1939
+6372,SRI,NA,M,SS,190,92,22,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6374,SRI,NA,M,SS,192,92,22,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6375,SRI,NA,M,SS,194,93,22,19,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6376,SRI,NA,F,SS,193,90,22,20,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6377,SRI,NA,F,SS,190,89,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6378,SRI,NA,M,SS,191,91,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6379,SRI,NA,M,SS,190,89,21,18,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6380,SRI,NA,F,SS,202,96,25,22,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6381,SRI,NA,F,SS,202,98,24,22,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6382,SRI,NA,F,SS,204,100,24,22,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6383,SRI,NA,M,SS,202,100,24,22,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,8/6/1939,8,6,1939
+6384,SRI,NA,M,SS,200,99,24,22,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,8/8/1939,8,8,1939
+6385,SCZ,NA,M,SS,195,88,24,21,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/15/1939,8,15,1939
+6386,SCZ,NA,M,SS,200,92,23,21,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Ranch Canyon,,8/15/1939,8,15,1939
+6595,SCL,NA,M,SS,150,47,20,15,,,"Willett, G","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/30/1939,11,30,1939
+6619,SCL,NA,M,SS,205,107,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+6620,SCL,NA,M,SO,195,98,24,23,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+6621,SCL,NA,F,SS,202,103,25,23,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6622,SCL,NA,F,SS,128,40,25,22,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+6623,SCL,NA,F,SS,127,19,25,23,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/16/1939,11,16,1939
+6624,SCL,NA,F,SS,218,105,25,23,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/16/1939,11,16,1939
+6625,SCL,NA,M,SS,192,95,22,22,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/16/1939,11,16,1939
+6626,SCL,NA,M,SS,220,110,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/16/1939,11,16,1939
+6627,SCL,NA,M,SS,210,102,25,23,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/17/1939,11,17,1939
+6628,SCL,NA,F,SS,195,108,23,22,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/17/1939,11,17,1939
+6629,SCL,NA,F,SS,214,104,24,23,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/18/1939,11,18,1939
+6630,SCL,NA,M,SS,204,100,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6631,SCL,NA,F,SS,185,98,24,23,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6632,SCL,NA,M,SS,206,103,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6633,SCL,NA,M,SS,203,101,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6634,SCL,NA,F,SS,207,105,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6635,SCL,NA,M,SS,208,106,25,24,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/5/1939,12,5,1939
+6636,SCL,NA,M,SS,198,94,22,19,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/13/1939,11,13,1939
+6637,SCL,NA,M,SS,185,90,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/13/1939,11,13,1939
+6638,SCL,NA,F,SS,196,92,22,19,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/13/1939,11,13,1939
+6639,SCL,NA,F,SS,187,91,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/13/1939,11,13,1939
+6640,SCL,NA,M,SS,190,94,22,19,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/14/1939,11,14,1939
+6641,SCL,NA,F,SS,190,90,22,20,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6642,SCL,NA,F,SS,198,95,22,21,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+6643,SCL,NA,M,SS,200,98,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/16/1939,11,16,1939
+6644,SCL,NA,F,SS,195,92,22,19,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/16/1939,11,16,1939
+6645,SCL,NA,F,SS,190,93,22,19,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Point,,11/16/1939,11,16,1939
+6646,SCL,NA,M,SS,188,91,22,19,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Point,,11/16/1939,11,16,1939
+6647,SCL,NA,M,SS,189,90,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Point,,11/17/1939,11,17,1939
+6648,SCL,NA,M,SS,200,94,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/17/1939,11,17,1939
+6649,SCL,NA,M,SS,197,95,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/18/1939,11,18,1939
+6650,SCL,NA,M,SS,193,91,22,19,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/18/1939,11,18,1939
+6651,SCL,NA,M,SS,190,88,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6652,SCL,NA,M,SS,194,93,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6653,SCL,NA,M,SS,193,91,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6654,SCL,NA,M,SS,197,95,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6655,SCL,NA,M,SS,192,89,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6656,SCL,NA,F,SS,198,96,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6657,SCL,NA,M,SS,193,90,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6658,SCL,NA,M,SS,185,83,21,19,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6659,SCL,NA,F,SS,195,93,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6660,SCL,NA,F,SS,192,90,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/24/1939,11,24,1939
+6661,SCL,NA,M,SS,198,94,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Mesa,,11/25/1939,11,25,1939
+6662,SCL,NA,M,SS,195,92,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Mesa,,11/25/1939,11,25,1939
+6663,SCL,NA,M,SS,194,90,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Mesa,,11/25/1939,11,25,1939
+6664,SCL,NA,F,SS,200,97,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Mesa,,11/25/1939,11,25,1939
+6665,SCL,NA,M,SS,204,100,23,21,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6666,SCL,NA,M,SS,198,94,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6667,SCL,NA,M,SS,200,96,23,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6668,SCL,NA,F,SS,197,94,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6669,SCL,NA,F,SS,192,90,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/28/1939,11,28,1939
+6670,SCL,NA,M,SS,190,88,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/28/1939,11,28,1939
+6671,SCL,NA,F,SS,199,97,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/29/1939,11,29,1939
+6672,SCL,NA,M,SS,200,98,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6673,SCL,NA,F,SS,197,95,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6674,SCL,NA,F,SS,196,94,22,20,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6675,SCL,NA,M,SS,175,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6676,SCL,NA,M,SS,173,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6677,SCL,NA,M,SS,176,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6678,SCL,NA,M,SS,177,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6679,SCL,NA,M,SS,174,74,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6680,SCL,NA,M,SS,172,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6681,SCL,NA,M,SS,169,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6682,SCL,NA,M,SS,170,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6683,SCL,NA,M,SS,173,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6684,SCL,NA,M,SS,175,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6685,SCL,NA,M,SS,168,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6686,SCL,NA,M,SS,174,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6687,SCL,NA,F,SS,180,82,21,17,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6688,SCL,NA,F,SS,179,80,21,17,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6689,SCL,NA,F,SS,178,78,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6690,SCL,NA,F,SS,179,81,21,17,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6691,SCL,NA,M,SS,184,90,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/12/1939,11,12,1939
+6692,SCL,NA,F,SS,175,77,21,16,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/13/1939,11,13,1939
+6693,SCL,NA,F,SS,172,74,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/13/1939,11,13,1939
+6694,SCL,NA,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/14/1939,11,14,1939
+6695,SCL,NA,M,SS,173,77,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6696,SCL,NA,M,SS,172,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6697,SCL,NA,M,SS,178,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6698,SCL,NA,F,SS,174,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6699,SCL,NA,F,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/15/1939,11,15,1939
+6700,SCL,NA,F,SS,172,75,21,17,,TRUE,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/16/1939,11,16,1939
+6701,SCL,NA,M,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/17/1939,11,17,1939
+6702,SCL,NA,M,SS,173,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/18/1939,11,18,1939
+6703,SCL,NA,M,SS,175,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/18/1939,11,18,1939
+6704,SCL,NA,F,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/18/1939,11,18,1939
+6705,SCL,NA,M,SS,170,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6706,SCL,NA,M,SS,168,71,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6707,SCL,NA,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6708,SCL,NA,M,SS,171,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6709,SCL,NA,M,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6710,SCL,NA,F,SS,167,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6711,SCL,NA,F,SS,168,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6712,SCL,NA,F,SS,165,71,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6713,SCL,NA,F,SS,176,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/20/1939,11,20,1939
+6714,SCL,NA,M,SS,170,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/21/1939,11,21,1939
+6715,SCL,NA,M,SS,172,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/21/1939,11,21,1939
+6716,SCL,NA,M,SS,171,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/21/1939,11,21,1939
+6717,SCL,NA,F,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/21/1939,11,21,1939
+6718,SCL,NA,F,SS,178,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/21/1939,11,21,1939
+6719,SCL,NA,F,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6720,SCL,NA,F,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6721,SCL,manic,F,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6722,SCL,manic,F,SS,180,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6723,SCL,manic,M,SS,170,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6724,SCL,manic,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6725,SCL,NA,M,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6726,SCL,NA,M,SS,174,77,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6727,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6728,SCL,NA,M,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6729,SCL,NA,M,SS,170,73,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6730,SCL,NA,M,SS,170,74,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6731,SCL,NA,M,SS,170,72,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6732,SCL,NA,M,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/22/1939,11,22,1939
+6733,SCL,NA,M,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6734,SCL,NA,M,SS,172,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6735,SCL,NA,F,SS,172,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6736,SCL,NA,F,SS,170,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/23/1939,11,23,1939
+6737,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Creek Basin,,11/24/1939,11,24,1939
+6738,SCL,NA,M,SS,173,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,11/24/1939,11,24,1939
+6739,SCL,NA,M,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6740,SCL,NA,M,SS,173,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6741,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6742,SCL,NA,M,SS,170,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6743,SCL,NA,F,SS,178,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6744,SCL,NA,F,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6745,SCL,NA,F,SS,170,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6746,SCL,NA,F,SS,171,73,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6747,SCL,NA,F,SS,172,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/25/1939,11,25,1939
+6748,SCL,NA,M,SS,180,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6749,SCL,NA,M,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6750,SCL,NA,M,SS,178,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6751,SCL,NA,M,SS,170,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6752,SCL,NA,M,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6753,SCL,NA,M,SS,178,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6754,SCL,NA,F,SS,175,77,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6755,SCL,NA,F,SS,173,76,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/26/1939,11,26,1939
+6756,SCL,NA,M,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/27/1939,11,27,1939
+6757,SCL,NA,F,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/27/1939,11,27,1939
+6758,SCL,NA,M,SS,178,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/27/1939,11,27,1939
+6759,SCL,NA,M,SS,174,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+6760,SCL,NA,M,SS,147,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+6761,SCL,NA,M,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/28/1939,11,28,1939
+6762,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/28/1939,11,28,1939
+6763,SCL,NA,F,SS,170,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/28/1939,11,28,1939
+6764,SCL,NA,F,SS,170,74,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Zilch Islet,,11/29/1939,11,29,1939
+6765,SCL,NA,F,SS,172,74,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Zilch Islet,,11/29/1939,11,29,1939
+6766,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Zilch Islet,,11/29/1939,11,29,1939
+6767,SCL,NA,M,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Zilch Islet,,11/29/1939,11,29,1939
+6768,SCL,NA,F,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/29/1939,11,29,1939
+6769,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,11/29/1939,11,29,1939
+6770,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/30/1939,11,30,1939
+6771,SCL,NA,M,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/30/1939,11,30,1939
+6772,SCL,NA,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6773,SCL,NA,M,SS,178,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6774,SCL,NA,F,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6775,SCL,NA,F,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6776,SCL,NA,F,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/3/1939,12,3,1939
+6777,SCL,NA,M,SS,178,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6778,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6779,SCL,NA,M,SS,174,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6780,SCL,NA,F,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/4/1939,12,4,1939
+6781,SCL,NA,M,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/5/1939,12,5,1939
+6782,SCL,NA,F,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Canyon,,12/5/1939,12,5,1939
+6783,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,12/6/1939,12,6,1939
+6784,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,12/6/1939,12,6,1939
+6785,SCL,NA,F,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,12/6/1939,12,6,1939
+6786,SCL,NA,F,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,12/6/1939,12,6,1939
+6787,SCL,NA,F,SS,174,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,12/7/1939,12,7,1939
+6788,SCL,NA,M,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach,,12/7/1939,12,7,1939
+6789,SCL,manic,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Wilson's Cove,,12/9/1939,12,9,1939
+6820,SBI,NA,M,SS,165,73,21,17,,,"Kanakoff, G P","von Bloeker, J C",Santa Barbara Id,,3/22/1940,3,22,1940
+6847,SNI,NA,M,SS,178,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6848,SNI,NA,M,SS,174,77,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6849,SNI,NA,M,SS,167,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6850,SNI,NA,M,SS,180,84,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6851,SNI,NA,M,SS,182,85,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6852,SNI,NA,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6853,SNI,NA,F,SS,179,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6854,SNI,NA,F,SS,182,84,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6855,SNI,NA,M,SS,152,66,20,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6856,SNI,NA,F,SS,140,62,20,14,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/13/1940,4,13,1940
+6857,SNI,NA,F,SS,175,79,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/14/1940,4,14,1940
+6858,SNI,NA,F,SS,157,69,20,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/14/1940,4,14,1940
+6859,SNI,NA,M,SS,182,85,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/14/1940,4,14,1940
+6860,SNI,NA,M,SS,175,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/14/1940,4,14,1940
+6861,SNI,NA,M,SS,184,86,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/14/1940,4,14,1940
+6862,SNI,NA,M,SS,176,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/14/1940,4,14,1940
+6863,SNI,NA,M,SS,188,92,22,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/15/1940,4,15,1940
+6867,SNI,NA,M,SS,173,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/18/1940,4,18,1940
+6868,SNI,NA,M,SS,166,74,20,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/18/1940,4,18,1940
+6869,SNI,NA,M,SS,160,71,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/18/1940,4,18,1940
+6871,SNI,NA,M,SS,174,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/19/1940,4,19,1940
+6872,SNI,NA,F,SS,180,84,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/19/1940,4,19,1940
+6873,SNI,NA,F,SS,178,83,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/21/1940,4,21,1940
+6874,SNI,NA,F,SS,175,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/21/1940,4,21,1940
+6875,SNI,NA,F,SS,190,95,22,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/21/1940,4,21,1940
+6876,SNI,NA,M,SS,145,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/22/1940,4,22,1940
+6877,SNI,NA,M,SS,177,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/22/1940,4,22,1940
+6878,SNI,NA,F,SS,176,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/22/1940,4,22,1940
+6879,SNI,NA,F,SS,182,86,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/22/1940,4,22,1940
+6880,SNI,NA,M,SS,180,84,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/23/1940,4,23,1940
+6881,SNI,NA,F,SS,189,92,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/23/1940,4,23,1940
+6882,SNI,NA,F,SS,178,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/23/1940,4,23,1940
+6883,SNI,NA,F,SS,188,92,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/23/1940,4,23,1940
+6884,SNI,NA,F,SS,177,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/23/1940,4,23,1940
+6885,SNI,NA,M,SS,178,83,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/24/1940,4,24,1940
+6886,SNI,NA,M,SS,185,89,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/24/1940,4,24,1940
+6887,SNI,NA,M,SS,182,85,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/24/1940,4,24,1940
+6888,SNI,manic,F,SS,188,91,22,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/24/1940,4,24,1940
+6889,SNI,manic,F,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/24/1940,4,24,1940
+6890,SNI,manic,F,SS,182,87,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/24/1940,4,24,1940
+6891,SNI,manic,M,SS,186,91,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6892,SNI,manic,M,SS,176,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6893,SNI,manic,M,SS,182,87,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6894,SNI,manic,M,SS,181,84,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6895,SNI,manic,M,SS,179,83,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6896,SNI,NA,M,SS,180,85,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6897,SNI,NA,M,SS,174,77,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6898,SNI,NA,F,SS,184,91,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/25/1940,4,25,1940
+6899,SNI,NA,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6900,SNI,NA,M,SS,162,68,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6901,SNI,NA,M,SS,174,77,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6902,SNI,NA,M,SS,165,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6903,SNI,manic,F,SS,186,90,21,18,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6904,SNI,manic,F,SS,181,84,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6905,SNI,NA,F,SS,178,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/26/1940,4,26,1940
+6906,SNI,NA,M,SS,178,83,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/27/1940,4,27,1940
+6907,SNI,NA,F,SS,184,90,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id,,4/27/1940,4,27,1940
+7160,SBI,NA,F,SS,179,80,21,18,,,"Kanakoff, G P","von Bloeker, J C",Santa Barbara Id,,7/1/1940,7,1,1940
+7161,SBI,NA,F,SS,170,74,21,18,,,"Kanakoff, G P","von Bloeker, J C",Santa Barbara Id,,7/1/1940,7,1,1940
+7162,SBI,NA,M,SS,178,80,21,18,,,"Kanakoff, G P","von Bloeker, J C",Santa Barbara Id,,7/1/1940,7,1,1940
+7163,SBI,NA,M,SS,168,75,21,18,,,"Kanakoff, G P","von Bloeker, J C",Santa Barbara Id,,7/1/1940,7,1,1940
+7164,SBI,NA,M,SS,160,73,20,16,TRUE,,"Kanakoff, G P","von Bloeker, J C",Santa Barbara Id,,7/1/1940,7,1,1940
+7336,AI-W,manic,F,SK,176,83,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; W Anacapa Id,,8/19/1940,8,19,1940
+7341,AI-M,NA,M,SS,178,83,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7342,AI-M,NA,M,SS,174,82,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7343,AI-M,NA,M,SS,170,77,21,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7344,AI-M,NA,M,SS,181,83,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7345,AI-M,NA,M,SS,168,75,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7350,AI-M,NA,M,SS,180,82,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7351,AI-M,NA,M,SS,181,83,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7352,AI-M,NA,F,SK,178,82,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7353,AI-M,NA,F,SK,177,80,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7354,AI-M,NA,F,SS,174,77,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7355,AI-M,NA,M,SK,180,85,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7356,AI-M,NA,M,SK,177,80,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7357,AI-M,NA,M,SK,178,82,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7358,AI-M,NA,M,SK,170,78,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7359,AI-M,NA,M,SK,171,78,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7360,AI-M,NA,F,,138,67,20,14,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7361,AI-M,NA,F,SK,150,72,20,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7362,AI-M,NA,F,SK,180,84,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+7368,AI-E,NA,M,SS,186,90,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7369,AI-E,NA,M,SS,188,94,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7370,AI-E,NA,M,SS,194,96,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7371,AI-E,NA,M,SS,183,85,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7372,AI-E,NA,M,SS,186,88,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7373,AI-E,NA,M,SS,178,82,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7374,AI-E,NA,M,SS,177,82,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7375,AI-E,NA,M,SS,182,84,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7376,AI-E,NA,M,SS,186,88,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7377,AI-E,NA,M,SS,190,92,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7378,AI-E,NA,M,SS,183,86,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7379,AI-E,manic,M,SS,186,89,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7380,AI-E,manic,M,SS,182,84,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7381,AI-E,manic,F,SS,177,82,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7382,AI-E,manic,F,SS,182,84,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7383,AI-E,NA,F,SS,182,86,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7384,AI-E,NA,F,SS,180,84,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7385,AI-E,NA,F,SS,182,85,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7386,AI-E,NA,F,SS,186,89,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7387,AI-E,NA,F,SS,178,82,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7388,AI-E,NA,F,SS,176,80,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7389,AI-E,NA,F,SS,184,88,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7390,AI-E,NA,F,SS,179,83,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7391,AI-E,NA,F,SS,190,92,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+7392,AI-E,NA,M,SS,158,73,20,15,TRUE,,"Kanakoff, G","Kanakoff, G",Anacapa Id; E Anacapa Id,,8/27/1940,8,27,1940
+7393,AI-M,NA,M,SS,198,95,23,19,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7394,AI-M,manic,M,SS,193,95,23,19,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7395,AI-M,manic,M,SS,192,90,23,18,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7396,AI-M,manic,F,SS,200,97,23,20,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7397,AI-M,manic,F,SS,194,92,22.5,20,,TRUE,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7398,AI-M,NA,M,SS,195,94,23,20,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7399,AI-M,NA,F,SS,198,94,23,20,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7401,AI-M,NA,F,SS,190,92,22.5,19,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7402,AI-M,NA,F,SS,182,85,22,19,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7403,AI-M,NA,M,SS,174,84,22,18,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7404,AI-M,NA,F,SS,168,86,22,18,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7405,AI-M,NA,M,SS,173,87,22.5,18,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7406,AI-M,NA,M,SS,165,82,21.5,18,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7407,AI-M,NA,M,SS,147,57,23,19,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7408,AI-M,NA,M,SS,182,86,22,18,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+7614,SNI,NA,F,SS,162,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7615,SNI,NA,F,SO,152,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7616,SNI,NA,F,SS,153,70,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7617,SNI,NA,M,SS,166,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7618,SNI,NA,M,SS,167,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7619,SNI,NA,M,SS,170,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7620,SNI,NA,M,SS,164,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7621,SNI,NA,M,SS,168,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7622,SNI,NA,M,SS,165,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7623,SNI,NA,M,SS,161,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7624,SNI,NA,M,SS,158,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/3/1940,12,3,1940
+7625,SNI,NA,M,SS,168,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/5/1940,12,5,1940
+7626,SNI,NA,M,SS,173,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/5/1940,12,5,1940
+7627,SNI,NA,M,SS,167,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/5/1940,12,5,1940
+7628,SNI,NA,M,SS,165,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/5/1940,12,5,1940
+7629,SNI,NA,F,SS,169,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Nicolas Id; Dutch Harbor,,12/5/1940,12,5,1940
+7763,SRI,NA,M,SS,159,60,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+7764,SRI,NA,F,SS,172,74,21,16,,TRUE,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+7765,SRI,NA,M,SS,170,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+7766,SRI,NA,F,SS,166,69,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+7767,SRI,NA,F,SS,145,60,19,14,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+7770,SRI,NA,M,SS,143,60,19,15,TRUE,,"von Bloeker, O B","von Bloeker, O B",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+7771,SRI,NA,F,SS,141,59,19,14,TRUE,,"von Bloeker, O B","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+7772,SRI,NA,F,SS,142,60,19,14,TRUE,,"von Bloeker, O B","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+7773,SRI,manic,M,SS,165,68,20,16,,,"von Bloeker, O B","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/2/1941,4,2,1941
+7774,SRI,manic,F,SS,163,67,20,15,,,"von Bloeker, O B","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/2/1941,4,2,1941
+7775,SRI,manic,F,SS,130,54,19,14,TRUE,,"von Bloeker, O B","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/2/1941,4,2,1941
+7776,SRI,manic,M,SS,167,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Skunk Point,,4/3/1941,4,3,1941
+7777,SRI,NA,M,SO,169,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Skunk Point,,4/3/1941,4,3,1941
+7778,SRI,NA,F,SO,171,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Skunk Point,,4/3/1941,4,3,1941
+7779,SRI,manic,M,SS,164,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,4/6/1941,4,6,1941
+7780,SRI,manic,F,SS,167,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,4/6/1941,4,6,1941
+7781,SRI,manic,M,SS,164,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Black Mountain,,4/6/1941,4,6,1941
+7782,SRI,manic,F,SS,163,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Black Mountain,,4/6/1941,4,6,1941
+7783,SRI,NA,F,SS,166,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Black Mountain,,4/6/1941,4,6,1941
+7784,SCZ,manic,M,SS,186,89,21,16,,,"Martin, L M","Martin, L M",Santa Cruz Id; Pelican Bay,,3/24/1941,3,24,1941
+7785,SCZ,NA,M,SO,188,91,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Pelican Bay,,3/26/1941,3,26,1941
+7786,SCZ,manic,F,SS,189,93,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Pelican Bay,,3/26/1941,3,26,1941
+7787,SCZ,manic,M,SS,169,79,20,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Cruz Id; Pelican Bay,,3/26/1941,3,26,1941
+7788,CAT,manic,M,SO,189,92,22,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Catalina Id; Johnson's Landing,,2/25/1941,2,25,1941
+7789,CAT,manic,M,SS,176,80,21,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Catalina Id; Middle Ranch,,3/9/1941,3,9,1941
+7790,CAT,manic,F,SS,152,70,20,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Catalina Id; Middle Ranch,,3/9/1941,3,9,1941
+7791,SCL,manic,F,SS,163,75,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch,,2/15/1941,2,15,1941
+7792,SCL,NA,M,SS,172,77,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch,,2/16/1941,2,16,1941
+7793,SCL,NA,M,SS,170,74,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch,,2/16/1941,2,16,1941
+7794,SCL,manic,F,SS,169,73,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch,,2/16/1941,2,16,1941
+7795,SCL,NA,M,SS,176,78,21,17,,,"Henne, C","Henne, C","San Clemente Id; Middle Ranch Canyon, mouth",,2/17/1941,2,17,1941
+7796,SCL,NA,M,SS,173,75,21,17,,,"Kanakoff, G P","Kanakoff, G P","San Clemente Id; Middle Ranch Canyon, mouth",,2/17/1941,2,17,1941
+7797,SCL,NA,M,SS,179,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/17/1941,2,17,1941
+7798,SCL,NA,M,SS,172,76,21,14,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+7799,SCL,NA,M,SS,171,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+7800,SCL,NA,M,SS,178,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+7801,SCL,NA,F,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+7802,SCL,NA,M,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+7803,SCL,NA,F,SS,173,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+7804,SCL,NA,F,SS,175,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+7805,SCL,NA,M,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+7830,AI-M,NA,F,SS,186,90,22.5,19,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+8481,AI-E,NA,F,SS,172,76,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8482,AI-E,NA,F,SS,176,81,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8483,AI-E,NA,F,SS,166,75,21,17,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8484,AI-E,NA,F,SS,173,78,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8489,AI-E,NA,M,SS,170,75,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8490,AI-E,NA,M,SS,170,82,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8491,AI-E,NA,M,SS,180,83,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+8492,AI-M,NA,M,SS,175,81,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+8493,AI-M,NA,F,SS,150,74,20,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/22/1940,8,22,1940
+8494,AI-M,NA,F,SS,163,77,21,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+8495,AI-M,NA,,SS,162,74,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+8496,AI-M,NA,,SS,161,73,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+8498,AI-E,NA,M,SS,157,76,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id; Fish Camp,,8/19/1940,8,19,1940
+8499,SCL,NA,F,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/17/1941,2,17,1941
+8500,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/17/1941,2,17,1941
+8501,SCL,NA,M,SS,178,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8502,SCL,NA,M,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8503,SCL,NA,M,SS,173,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8504,SCL,NA,F,SS,170,75,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8505,SCL,NA,F,SS,170,74,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8506,SCL,NA,F,SS,171,74,20,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8507,SCL,NA,F,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/18/1941,2,18,1941
+8508,SCL,NA,M,SS,142,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8509,SCL,NA,M,SS,174,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8510,SCL,NA,M,SS,177,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8511,SCL,NA,M,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8512,SCL,NA,M,SS,178,82,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8513,SCL,NA,F,SS,171,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8514,SCL,NA,F,SS,170,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/19/1941,2,19,1941
+8515,SCL,NA,M,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8516,SCL,NA,M,SS,178,81,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8517,SCL,NA,M,SS,176,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8518,SCL,NA,M,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8519,SCL,NA,F,SS,172,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8520,SCL,NA,F,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8521,SCL,NA,F,SS,174,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8522,SCL,NA,F,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/20/1941,2,20,1941
+8523,SCL,NA,M,SS,174,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8524,SCL,NA,M,SS,177,80,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8525,SCL,NA,M,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8526,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8527,SCL,NA,M,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8528,SCL,NA,F,SS,174,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8529,SCL,NA,F,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8530,SCL,NA,F,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/21/1941,2,21,1941
+8531,SCL,NA,F,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8532,SCL,NA,F,SS,175,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8533,SCL,NA,F,SS,170,74,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8534,SCL,NA,F,SS,172,76,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8535,SCL,NA,M,SS,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8536,SCL,NA,M,SS,177,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8537,SCL,NA,M,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Middle Ranch Canyon,,2/22/1941,2,22,1941
+8538,SRI,NA,M,SS,168,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+8539,SRI,manic,M,SS,165,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+8540,SRI,manic,F,SS,170,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+8541,SRI,NA,F,SS,168,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+8542,SRI,NA,F,SS,171,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/29/1941,3,29,1941
+8543,SRI,NA,M,SS,169,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8544,SRI,NA,M,SS,164,67,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8545,SRI,NA,M,SS,166,69,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8546,SRI,NA,M,SS,164,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8547,SRI,NA,M,SS,165,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8548,SRI,NA,M,SS,163,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8549,SRI,NA,M,SS,166,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8550,SRI,NA,F,SS,167,69,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/30/1941,3,30,1941
+8551,SRI,NA,F,SS,169,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8552,SRI,NA,M,SS,163,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8553,SRI,NA,M,SS,163,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8554,SRI,NA,M,SS,160,68,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8555,SRI,NA,M,SS,162,69,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8556,SRI,NA,F,SS,165,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8557,SRI,NA,F,SS,166,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Becher's Bay,,3/31/1941,3,31,1941
+8558,SRI,NA,M,SS,172,74,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+8559,SRI,NA,M,SS,170,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+8560,SRI,NA,M,SS,164,69,20,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+8561,SRI,NA,M,SS,168,71,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+8562,SRI,NA,M,SS,146,63,19,15,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+8563,SRI,NA,F,SS,128,53,18,14,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/1/1941,4,1,1941
+8564,SRI,NA,M,SS,170,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Elderberry Canyon,,4/2/1941,4,2,1941
+8565,SRI,NA,M,SS,168,73,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Skunk Point,,4/3/1941,4,3,1941
+8566,SRI,NA,M,SS,157,66,20,15,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Cherry Canyon,,4/6/1941,4,6,1941
+8567,SRI,NA,F,SS,167,70,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Black Mountain,,4/6/1941,4,6,1941
+8568,SRI,NA,F,SO,169,72,21,16,,,"von Bloeker, J C","von Bloeker, J C",Santa Rosa Id; Black Mountain,,4/6/1941,4,6,1941
+20063,SCZ,NA,M,SS,179,86,22,18,,,"Ashcraft, G P","Ashcraft, G P",Santa Cruz Id; Prisoner's Harbor,,8/2/1938,8,2,1938
+20064,SCZ,NA,M,SS,156,80,21,18,,,"Ashcraft, G P","Ashcraft, G P",Santa Cruz Id; Prisoner's Harbor,,8/2/1938,8,2,1938
+20065,SCZ,NA,M,SS,168,76,22,18,,,"Ashcraft, G P","Ashcraft, G P",Santa Cruz Id; Prisoner's Harbor,,8/2/1938,8,2,1938
+20066,SCZ,NA,F,SS,174,79,21,18,,,"Ashcraft, G P","Ashcraft, G P",Santa Cruz Id; Prisoner's Harbor,,8/2/1938,8,2,1938
+20067,SCZ,NA,F,SS,178,76,21,18,,,"Ashcraft, G P","Ashcraft, G P",Santa Cruz Id; Prisoner's Harbor,,8/2/1938,8,2,1938
+20068,SCZ,NA,M,SS,178,89,21,19,,,"Ashcraft, G P","Ashcraft, G P",Santa Cruz Id; Prisoner's Harbor,,8/2/1938,8,2,1938
+20440,CAT,manic,F,SS,160,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",Santa Catalina Id; White's Landing,,10/26/1941,10,26,1941
+20441,CAT,manic,M,SS,151,72,21,16,TRUE,,"von Bloeker, J C","von Bloeker, J C",Santa Catalina Id; White's Landing,,10/26/1941,10,26,1941
+21286,AI-M,NA,F,SS,160,73,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+21287,AI-M,NA,F,SS,159,71,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+21288,AI-M,NA,F,SS,165,78,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; Mid Anacapa Id,,8/21/1940,8,21,1940
+21289,AI-E,NA,M,SS,178,84,22,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+21290,AI-W,manic,F,SS,170,80,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; W Anacapa Id; Fish Camp,,8/19/1940,8,19,1940
+21291,AI-W,manic,M,SS,158,72,20,15,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; W Anacapa Id; Fish Camp,,8/19/1940,8,19,1940
+21292,AI-E,NA,M,SS,180,83,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+21293,AI-E,NA,M,SS,181,84,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+21294,AI-E,NA,M,SS,175,80,21,16,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+21295,AI-E,NA,M,SS,178,82,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+21296,AI-E,NA,M,SS,180,83,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+21297,AI-E,NA,M,SS,174,80,22,17,,,"von Bloeker, J C","von Bloeker, J C",Anacapa Id; E Anacapa Id,,8/23/1940,8,23,1940
+22145,SCL,NA,M,SS,160,75,20,15,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/13/1939,11,13,1939
+22146,SCL,NA,F,SS,174,76,21,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Cove,,11/13/1939,11,13,1939
+22147,SCL,NA,M,SS,169,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+22148,SCL,NA,M,SS,174,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+22149,SCL,NA,M,SS,173,77,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+22150,SCL,NA,F,SS,170,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Canyon,,11/15/1939,11,15,1939
+22151,SCL,NA,M,SS,176,78,21,17,,,"von Bloeker, J C","von Bloeker, J C","San Clemente Id; Big Dog Mesa, W Pyramid Cove",,11/26/1939,11,26,1939
+22152,SCL,NA,F,SS,171,74,20,16,,,"von Bloeker, J C","von Bloeker, J C","San Clemente Id; Big Dog Mesa, W Pyramid Cove",,11/26/1939,11,26,1939
+22153,SCL,NA,F,SS,172,76,20,16,,,"von Bloeker, J C","von Bloeker, J C","San Clemente Id; Big Dog Mesa, W Pyramid Cove",,11/26/1939,11,26,1939
+22154,SCL,NA,F,SS,174,77,20,16,,,"von Bloeker, J C","von Bloeker, J C","San Clemente Id; Big Dog Mesa, W Pyramid Cove",,11/26/1939,11,26,1939
+22155,SCL,NA,M,SS,175,77,21,17,,,"von Bloeker, J C","von Bloeker, J C","San Clemente Id; Big Dog Mesa, W Pyramid Cove",,11/27/1939,11,27,1939
+22156,SCL,NA,M,SS,171,73,21,17,,,"von Bloeker, J C","von Bloeker, J C","San Clemente Id; Big Dog Mesa, W Pyramid Cove",,11/27/1939,11,27,1939
+23215,SBI,NA,M,SS,160,70,21,17,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23216,SBI,NA,M,SS,173,76,22,17,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23217,SBI,NA,M,SS,160,68,20,16,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23218,SBI,NA,M,SS,159,65,21,17,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23219,SBI,NA,M,SS,173,70,21,16,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23220,SBI,NA,M,SS,169,72,21,16,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23221,SBI,NA,M,SS,171,72,21,17,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23222,SBI,NA,F,SS,153,66,21,17,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23223,SBI,NA,F,SS,157,67,21,16,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23224,SBI,NA,F,SS,154,62,20,16,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23225,SBI,NA,F,SS,155,63,20,15.5,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23226,SBI,NA,F,SS,160,68,21,17,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23227,SBI,NA,F,SS,160,68,21,16.5,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23228,SBI,NA,F,SS,184,75,21,16,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23229,SBI,NA,F,SS,158,66,21,,,,"Durham, F E","Durham, F E",Santa Barbara Id,,3/19/1955,3,19,1955
+23235,SCZ,NA,F,SS,178,82,20.5,15,,TRUE,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23236,SCZ,NA,F,SS,179,80,20,16,,TRUE,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23237,SCZ,NA,F,SS,175,81,21,17,,TRUE,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23238,SCZ,NA,F,SS,172,79,21,16,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23239,SCZ,NA,F,SS,172,81,21,17,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23240,SCZ,NA,M,SS,189,89,20,16.5,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23241,SCZ,NA,M,SS,186,90,21,16,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23242,SCZ,NA,M,SS,175,84,21,16,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23243,SCZ,NA,M,SS,182,86,22,16.5,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23244,SCZ,NA,M,SS,183,82,21,16.5,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23245,SCZ,NA,M,SS,183,87,20.5,16,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23246,SCZ,NA,M,SS,180,81,21.5,16,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23247,SCZ,NA,M,SS,183,86,21,15,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+23248,SCZ,NA,M,SS,175,79,20,15.5,,,"Durham, F E","Durham, F E",Santa Cruz Id,,4/2/1955,4,2,1955
+27860,SCZ,NA,M,SS,164,72,19,18,,,"Epstein, H","Epstein, H",Santa Cruz Id; Prisoner's Harbor,,7/26/1967,7,26,1967
+27861,SCZ,NA,F,SS,163,71,18,18,,,"Epstein, H","Epstein, H",Santa Cruz Id; Prisoner's Harbor,,7/26/1967,7,26,1967
+27862,SCZ,NA,F,SS,170,78,19,19,,,"Epstein, H","Epstein, H",Santa Cruz Id; Prisoner's Harbor,,7/26/1967,7,26,1967
+27863,SCZ,NA,F,SS,165,78,21,20,,,"Platte, R C","Platte, R C",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27864,SCZ,NA,M,SS,165,65,21,19,,,"Platte, R C","Platte, R C",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27865,SCZ,NA,F,SS,158,71,20,18,,TRUE,"Platte, R C","Platte, R C",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27866,SCZ,NA,M,SS,185,85,22,19,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27867,SCZ,NA,F,SS,163,78,21,16,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27868,SCZ,NA,M,SS,169,76,20,17,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27869,SCZ,NA,M,SS,163,76,21,17,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27870,SCZ,NA,F,SS,178,83,21,16,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27871,SCZ,NA,M,SS,174,88,19,19,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27872,SCZ,NA,M,SS,162,74,21,19,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27873,SCZ,NA,F,SS,175,85,21,19,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27874,SCZ,NA,M,SS,182,90,21,18,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27875,SCZ,NA,M,SS,157,73,19,17,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27876,SCZ,NA,F,SS,,,19,16,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27877,SCZ,NA,M,SS,163,74,18,15,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27878,SCZ,NA,F,SS,161,77,18,17,,TRUE,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27879,SCZ,NA,M,SS,151,73,20,16,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+27880,SCZ,NA,F,SS,116,57,19,16,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27881,SCZ,NA,F,SS,162,72,20,17,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27882,SCZ,NA,M,SS,176,85,20,19,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27883,SCZ,NA,F,SS,164,79,19,17,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+27884,SCZ,NA,F,SS,172,79,21,18,,TRUE,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+36980,SCZ,NA,F,SO,178,79,21,19,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+42790,SBI,NA,M,SS,144,71,19,18,,,"Bezy, K","Bezy, K",Santa Barbara Id,,7/16/1972,7,16,1972
+42791,SBI,NA,M,SS,133,62,19,15,,,"Bezy, K","Bezy, K",Santa Barbara Id,,7/16/1972,7,16,1972
+42792,SBI,NA,M,SS,143,64,18,14,,,"Bezy, K","Bezy, K",Santa Barbara Id,,7/16/1972,7,16,1972
+42793,SBI,NA,F,SK,151,70,19,15,,,"Bezy, K","Bezy, K",Santa Barbara Id,,7/16/1972,7,16,1972
+42795,SBI,NA,M,SK,142,67,18,16,,,"Bezy, K","Bezy, K",Santa Barbara Id,,7/16/1972,7,16,1972
+49234,SCZ,NA,M,SS,166,88,21,19,,,"Stager, K E","Stager, K E","Santa Cruz Island, west end",,8/22/1983,8,22,1983
+49235,SCZ,NA,M,SS,159,81,18,17,,,"Stager, K E","Stager, K E","Santa Cruz Island, west end",,8/22/1983,8,22,1983
+63542,SBI,NA,M,SO,108,79,21,18,,,"Davis, J R","Davis, J R",Santa Barbara Id,,8/8/1972,8,8,1972
+63543,SBI,NA,F,SO,98,36,17,11,,,"Bohannan, M B","Bohannan, M B",Santa Barbara Id,,1/30/1973,1,30,1973
+63544,SBI,NA,F,SO,147,64,19,18,,,"Smith, J D","Smith, J D",Santa Barbara Id,,1/31/1973,1,31,1973
+63545,SBI,NA,F,SO,150,69,19,17,,,"Smith, J D","Smith, J D",Santa Barbara Id,,1/31/1973,1,31,1973
+63546,SBI,NA,M,SO,166,79,21,18,,,"Smith, J D","Smith, J D",Santa Barbara Id,,1/31/1973,1,31,1973
+63547,SBI,NA,M,SO,170,80,22,19,,,"Smith, J D","Smith, J D",Santa Barbara Id,,3/4/1973,3,4,1973
+63548,SBI,NA,M,SO,158,78,22,19,,,"Davis, J R","Davis, J R",Santa Barbara Id,,8/8/1972,8,8,1972
+63549,SBI,NA,M,SS,154,67,20,18,,,"Westermeier, J F","Westermeier, J F",Santa Barbara Id,,5/9/1970,5,9,1970
+86698,SCZ,NA,M,SN,165,75,20,17,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/23/1967,2,23,1967
+86699,SCZ,NA,F,SN,122,57,19,15,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+86700,SCZ,NA,F,SK,165,83,20,18,,,"Lester, L A","Lester, L A",Santa Cruz Id; Prisoner's Harbor,,2/24/1967,2,24,1967
+87852,SMI,NA,M,SN,,,19,18,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/16/1970,8,16,1970
+87853,SMI,NA,M,SN,142,62,16,15,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/16/1970,8,16,1970
+87854,SMI,NA,F,SN,130,60,17,16,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/16/1970,8,16,1970
+87855,SMI,NA,F,SN,141,62,16,14,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/17/1970,8,17,1970
+87856,SMI,NA,F,SN,152,70,20,15,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/17/1970,8,17,1970
+87857,SMI,NA,M,SN,158,70,19,15,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/17/1970,8,17,1970
+87858,SMI,NA,F,SN,162,65,20,14,,,"Donahue, J P","Abraham, H M","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87859,SMI,NA,M,SN,164,70,22,16,,,"Donahue, J P","Abraham, H M","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87860,SMI,NA,M,SN,164,71,21,19,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87861,SMI,NA,F,SN,140,65,19,18,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87862,SMI,NA,F,SN,153,75,21,18,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87863,SMI,NA,F,SN,145,67,20,16,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87864,SMI,NA,F,SN,146,68,18,15,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87865,SMI,NA,M,SN,145,68,15,13,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87866,SMI,NA,F,SN,141,70,18,15,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87867,SMI,NA,M,SN,147,69,13,13,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87868,SMI,NA,F,SN,156,69,18,17,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87869,SMI,NA,M,SN,155,68,17,16,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87870,SMI,NA,F,SN,145,64,17,17,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87871,SMI,NA,F,SN,145,70,18,17,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/18/1970,8,18,1970
+87872,SMI,NA,M,SN,162,73,21,20,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87873,SMI,NA,M,SN,152,70,21,17,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87874,SMI,NA,F,SS,161,76,22,19,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87875,SMI,NA,M,SS,145,67,20,18,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87876,SMI,NA,F,SN,152,67,20,18,,,"Donahue, J P","Birdsall, B A","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87877,SMI,NA,M,SN,153,68,20,17,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87878,SMI,NA,F,SN,165,74,20,16,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/19/1970,8,19,1970
+87879,SMI,NA,F,SN,160,69,20,15,,,"Donahue, J P","Abraham, H M","San Miguel Island, Cuyler Beach",,8/20/1970,8,20,1970
+87880,SMI,NA,M,SN,150,62,21,14,,,"Donahue, J P","Abraham, H M","San Miguel Island, Cuyler Beach",,8/20/1970,8,20,1970
+87881,SMI,NA,M,SN,156,72,17,14,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/20/1970,8,20,1970
+87882,SMI,NA,F,SN,145,66,16,14,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/20/1970,8,20,1970
+87883,SMI,NA,F,SN,145,66,17,17,,,"Donahue, J P","Bull, J L","San Miguel Island, Cuyler Beach",,8/20/1970,8,20,1970
+87884,SMI,NA,F,SN,145,70,21,21,,,"Donahue, J P","Clark, J L","San Miguel Island, Cuyler Beach",,8/20/1970,8,20,1970
+88205,SNI,NA,M,SN,170,81,19,21,,,"Mitchell, E D","Mitchell, E D",San Nicolas Id; Near the barracks,,4/15/1960,4,15,1960
+88206,SNI,NA,F,SN,144,69,20,15,,,"Mitchell, E D","Mitchell, E D",San Nicolas Id; Near the barracks,,4/15/1960,4,15,1960
+88207,SNI,NA,F,SN,138,59,19,14,,,"Mitchell, E D","Mitchell, E D",San Nicolas Id; Near the barracks,,4/15/1960,4,15,1960
+89141,SCZ,NA,M,SB,174,84,22,20,,,"George, S B","George, S B",Santa Cruz Id; Prisoner's Harbor,,3/12/1988,3,12,1988
+90281,SCL,NA,M,SS,168,74,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Point,,11/16/1939,11,16,1939
+90282,SCL,NA,M,SS,170,78,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Horse Beach Point,,11/18/1939,11,18,1939
+90283,SCL,NA,F,SS,170,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/27/1939,11,27,1939
+90284,SCL,NA,M,SS,170,72,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+90285,SCL,NA,M,SS,171,74,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+90286,SCL,NA,M,SS,173,75,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+90287,SCL,NA,F,SS,170,73,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+90288,SCL,NA,F,SS,170,73,20,16,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; Big Dog Mesa,,11/28/1939,11,28,1939
+90289,SCL,NA,M,SO,176,79,21,17,,,"von Bloeker, J C","von Bloeker, J C",San Clemente Id; China Point,,11/28/1939,11,28,1939
+95944,SRI,NA,F,SO,104,73,21,17,TRUE,,"Couffer, J C","Couffer, J C","Santa Rosa island, Beecher's Bay",,12/12/1941,12,12,1941
+98989,SCZ,NA,F,SB,193,95,21,21,,,"George, S B & R L Ford","Maldonado, J E",Santa Cruz Id; Prisoners Harbor (line 246),,3/13/1988,3,13,1988
